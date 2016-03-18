@@ -39,4 +39,5 @@ max-width: 900px;
   width: 60%;
   height: 60%;
   overflow: auto;
+  /*float: right;*/
 }
