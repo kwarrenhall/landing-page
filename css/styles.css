@@ -11,15 +11,32 @@ max-width: 900px;
   padding-right: 50px;
 }
 
+.metext {
+  font-style: italic;
+}
+
 #projectssection {
   padding-top: 20px;
   padding-bottom: 20px;
 
 }
 
-.thumbnail {
-  width: 80%;
-    height: 80%;
-    overflow: auto;
+.mainpgthumbnail {
+  width: 70%;
+  height: 70%;
+  overflow: auto;
 
+}
+
+.jumbotron {
+  /*background-color: #f9f9f9;*/
+  text-align: center;
+  padding-bottom: 40px;
+
+}
+
+.projectpgthumbnails {
+  width: 60%;
+  height: 60%;
+  overflow: auto;
 }
