@@ -1,8 +1,12 @@
 
 body {
-  padding-top: 50px;
+  padding-top: 60px;
 }
 
 img {
 max-width: 900px;
+}
+
+#aboutme {
+  padding-right: 50px;
 }
