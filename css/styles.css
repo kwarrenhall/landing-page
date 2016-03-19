@@ -41,3 +41,11 @@ max-width: 900px;
   overflow: auto;
   /*float: right;*/
 }
+
+#board{
+  padding-top: 15px;
+}
+
+#wiki {
+  max-height: 138px;
+}
